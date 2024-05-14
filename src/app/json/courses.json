@@ -1,0 +1,1191 @@
+[
+    {
+        "id": 1,
+        "course_name": "Desarrollo Web",
+        "course_modality": "Online en vivo",
+        "course_purpose": "Capacitar a los estudiantes para crear sitios web atractivos, funcionales y responsivos utilizando una variedad de herramientas y tecnologías populares en el desarrollo web frontend. Se espera que al finalizar el curso, los estudiantes sean capaces de diseñar y desarrollar sitios web que cumplan con los estándares actuales de diseño y usabilidad.",
+        "course_audience": "Personas con ganas y aquellas que estén comenzando en el mundo del desarrollo web y desean aprender los fundamentos de la creación de sitios web modernos y responsivos.",
+        "course_topics": [
+            {
+                "topic_id": 1,
+                "topic": "HTML"
+            },
+            {
+                "topic_id": 2,
+                "topic": "CSS"
+            },
+            {
+                "topic_id": 3,
+                "topic": "Bootstrap"
+            },
+            {
+                "topic_id": 4,
+                "topic": "TailwindCSS"
+            },
+            {
+                "topic_id": 5,
+                "topic": "Material UI"
+            }
+        ],
+        "course_program": [
+            "Clase 1 - Prototipado y conceptos básicos de HTML",
+            "Clase 2 - Primeros pasos con HTML",
+            "Clase 3 - Incluyendo CSS a nuestro proyecto",
+            "Clase 4 - CSS + Box Modeling",
+            "Clase 5 - Flexbox",
+            "Clase 6 - GRIDS",
+            "Clase 7 - GRIDS II",
+            "Clase 8 - Pseudoclases y BEM",
+            "Clase 9 - Frameworks CSS + Bootstrap",
+            "Clase 10 - GIT",
+            "Clase 11 - GITHUB",
+            "Clase 12 - SASS I",
+            "Clase 13 - SASS II",
+            "Clase 14 - Animaciones",
+            "Clase 15 - SEO y buenas prácticas",
+            "Clase 16 - Servidores: tu sitio en línea",
+            "Clase 17 - Conociendo a nuestro cliente",
+            "Clase 18 - Proyecto final"
+        ],
+        "course_teachers_tutors": [
+            {
+                "course_role": "Profesor/a",
+                "course_teacher_tutor": "Marta López",
+                "course_teacher_tutor_profession": "Desarrollador Web Senior",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Carlos García",
+                "course_teacher_tutor_profession": "Diseñador de Experiencia de Usuario (UX)",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Laura Martínez",
+                "course_teacher_tutor_profession": "Desarrolladora Frontend",
+                "course_teacher_tutor_img": ""
+            }
+        ],
+        "course_price": "10.000",
+        "course_dates": [
+            {
+                "course_start_date": "2024-05-06",
+                "course_finish_date": "2024-07-08",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-05-14",
+                "course_finish_date": "2024-07-23",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-05-18",
+                "course_finish_date": "2024-07-27",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-05-28",
+                "course_finish_date": "2024-08-06",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-06-10",
+                "course_finish_date": "2024-08-12",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-06-15",
+                "course_finish_date": "2024-08-24",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-06-18",
+                "course_finish_date": "2024-08-27",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-06-25",
+                "course_finish_date": "2024-08-29",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-07-08",
+                "course_finish_date": "2024-09-09",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-07-16",
+                "course_finish_date": "2024-09-17",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            }
+        ],
+        "course_path": "desarrollo-web"
+    },
+    {
+        "id": 2,
+        "course_name": "Javascript",
+        "course_modality": "Online en vivo",
+        "course_purpose": "Dotar a los estudiantes con los fundamentos esenciales de JavaScript, desde la sintaxis básica hasta conceptos más avanzados como ciclos, funciones y manipulación de datos con objetos y arrays. Al finalizar, los participantes estarán preparados para construir aplicaciones web interactivas y dinámicas.",
+        "course_audience": "Personas con ganas, estudiantes y desarrolladores principiantes que deseen adquirir una comprensión sólida de JavaScript y comenzar a construir aplicaciones web interactivas.",
+        "course_topics": [
+            {
+                "topic_id": 1,
+                "topic": "Sintaxis y variables"
+            },
+            {
+                "topic_id": 2,
+                "topic": "Ciclos e iteraciones"
+            },
+            {
+                "topic_id": 3,
+                "topic": "Funciones"
+            },
+            {
+                "topic_id": 4,
+                "topic": "Objetos"
+            },
+            {
+                "topic_id": 5,
+                "topic": "Arrays"
+            }
+        ],
+        "course_program": [
+            "Clase 1 - Conceptos generales: Sintaxis y variables",
+            "Clase 2 - Control de flujos",
+            "Clase 3 - Ciclos e iteraciones",
+            "Clase 4 - Funciones",
+            "Clase 5 - Objetos",
+            "Clase 6 - Arrays",
+            "Clase 7 - Funciones de orden superior I",
+            "Clase 8 - Funciones de Orden Superior II",
+            "Clase 9 - DOM",
+            "Clase 10 - Eventos",
+            "Clase 11 - Storage & JSON",
+            "Clase 12 - Operadores avanzados I",
+            "Clase 13 - Operadores Avanzados II + Workshop",
+            "Clase 14 - Librerías",
+            "Clase 15 - Asincronía y promesas",
+            "Clase 16 - Ajax & Fetch",
+            "Clase 17 - Frameworks & NodeJS"
+        ],
+        "course_teachers_tutors": [
+            {
+                "course_role": "Profesor/a",
+                "course_teacher_tutor": "Juan García",
+                "course_teacher_tutor_profession": "Desarrollador Senior de Software",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "María López",
+                "course_teacher_tutor_profession": "Ingeniera de Software",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Carlos Martínez",
+                "course_teacher_tutor_profession": "Desarrollador Frontend",
+                "course_teacher_tutor_img": ""
+            }
+        ],
+        "course_price": "12.000",
+        "course_dates": [
+            {
+                "course_start_date": "2024-05-06",
+                "course_finish_date": "2024-07-08",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-05-14",
+                "course_finish_date": "2024-07-23",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-05-18",
+                "course_finish_date": "2024-07-27",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-05-28",
+                "course_finish_date": "2024-08-06",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-06-10",
+                "course_finish_date": "2024-08-12",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-06-15",
+                "course_finish_date": "2024-08-24",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-06-18",
+                "course_finish_date": "2024-08-27",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-06-25",
+                "course_finish_date": "2024-08-29",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-07-08",
+                "course_finish_date": "2024-09-09",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-07-16",
+                "course_finish_date": "2024-09-17",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            }
+        ],
+        "course_path": "javascript"
+    },
+    {
+        "id": 3,
+        "course_name": "React",
+        "course_modality": "Online en vivo",
+        "course_purpose": "Explorar los principios de React, desde la configuración del entorno de desarrollo hasta la creación de componentes reutilizables y el manejo de la asincronía con promesas. Con énfasis en los Hooks y otras características clave, los participantes saldrán listos para construir aplicaciones modernas de una sola página de manera eficiente y escalable.",
+        "course_audience": "Personas con ganas y desarrolladores web que ya tengan experiencia con HTML, CSS y JavaScript, este curso es perfecto para aquellos que desean dominar el desarrollo de aplicaciones web modernas utilizando React.",
+        "course_topics": [
+            {
+                "topic_id": 1,
+                "topic": "Introducción a React"
+            },
+            {
+                "topic_id": 2,
+                "topic": "Configuración del entorno"
+            },
+            {
+                "topic_id": 3,
+                "topic": "Componentes reutilizables"
+            },
+            {
+                "topic_id": 4,
+                "topic": "Promises, asincronía y MAP"
+            },
+            {
+                "topic_id": 5,
+                "topic": "Hooks"
+            }
+        ],
+        "course_program": [
+            "Clase 1 - Introducción a React Js",
+            "Clase 2 - Instalación y configuración del entorno",
+            "Clase 3 - JSX y transpiling",
+            "Clase 4 - Componentes I",
+            "Clase 5 - Componentes II",
+            "Clase 6 - Promises, asincronía y MAP",
+            "Clase 7 - Consumiendo API's",
+            "Clase 8 - Workshop: Hooks, Children y Patrones",
+            "Clase 9 - Routing y navegación",
+            "Clase 10 - Eventos",
+            "Clase 11 - Context",
+            "Clase 12 - Técnicas de rendering",
+            "Clase 13 - Firebase I",
+            "Clase 14 - Firebase II",
+            "Clase 15 - Workshop final"
+        ],
+        "course_teachers_tutors": [
+            {
+                "course_role": "Profesor/a",
+                "course_teacher_tutor": "Ana Rodríguez",
+                "course_teacher_tutor_profession": "Arquitecta de Software",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Pablo Gómez",
+                "course_teacher_tutor_profession": "Desarrollador Full-stack",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Laura Fernández",
+                "course_teacher_tutor_profession": "Diseñadora de Experiencia de Usuario (UX)",
+                "course_teacher_tutor_img": ""
+            }
+        ],
+        "course_price": "10.000",
+        "course_dates": [
+            {
+                "course_start_date": "2024-05-06",
+                "course_finish_date": "2024-07-08",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-05-14",
+                "course_finish_date": "2024-07-23",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-05-18",
+                "course_finish_date": "2024-07-27",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-05-28",
+                "course_finish_date": "2024-08-06",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-06-10",
+                "course_finish_date": "2024-08-12",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-06-15",
+                "course_finish_date": "2024-08-24",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-06-18",
+                "course_finish_date": "2024-08-27",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-06-25",
+                "course_finish_date": "2024-08-29",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-07-08",
+                "course_finish_date": "2024-09-09",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-07-16",
+                "course_finish_date": "2024-09-17",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            }
+        ],
+        "course_path": "react"
+    },
+    {
+        "id": 4,
+        "course_name": "Next.js",
+        "course_modality": "Online en vivo",
+        "course_purpose": "Aprender aspectos avanzados como el renderizado del lado del servidor, la estructura y maquetación de aplicaciones, así como estrategias efectivas de enrutamiento y despliegue para lograr un rendimiento óptimo y una excelente experiencia del usuario.",
+        "course_audience": "Personas con ganas y desarrolladores web con experiencia previa en React que buscan ampliar sus habilidades para construir aplicaciones web escalables y de alto rendimiento con Next.js.",
+        "course_topics": [
+            {
+                "topic_id": 1,
+                "topic": "Server Side Rendering"
+            },
+            {
+                "topic_id": 2,
+                "topic": "Estructura y maquetación"
+            },
+            {
+                "topic_id": 3,
+                "topic": "Routing y pages"
+            },
+            {
+                "topic_id": 4,
+                "topic": "Integración"
+            },
+            {
+                "topic_id": 5,
+                "topic": "SEO y Deploy"
+            }
+        ],
+        "course_program": [
+            "Clase 1 - Fundamentos de Server Side Rendering",
+            "Clase 2 - Estructura y maquetación",
+            "Clase 3 - Routing y Pages",
+            "Clase 4 - Data Fetching I",
+            "Clase 5 - Data Fetching II",
+            "Clase 6 - Integración",
+            "Clase 7 - SEO y Deploy"
+        ],
+        "course_teachers_tutors": [
+            {
+                "course_role": "Profesor/a",
+                "course_teacher_tutor": "Diego Pérez",
+                "course_teacher_tutor_profession": "Ingeniero de Software",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Sofía García",
+                "course_teacher_tutor_profession": "Desarrolladora Full-stack",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Javier Martínez",
+                "course_teacher_tutor_profession": "Diseñador de Interfaz de Usuario (UI)",
+                "course_teacher_tutor_img": ""
+            }
+        ],
+        "course_price": "15.000",
+        "course_dates": [
+            {
+                "course_start_date": "2024-05-06",
+                "course_finish_date": "2024-07-08",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-05-14",
+                "course_finish_date": "2024-07-23",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-05-18",
+                "course_finish_date": "2024-07-27",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-05-28",
+                "course_finish_date": "2024-08-06",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-06-10",
+                "course_finish_date": "2024-08-12",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-06-15",
+                "course_finish_date": "2024-08-24",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-06-18",
+                "course_finish_date": "2024-08-27",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-06-25",
+                "course_finish_date": "2024-08-29",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-07-08",
+                "course_finish_date": "2024-09-09",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-07-16",
+                "course_finish_date": "2024-09-17",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            }
+        ],
+        "course_path": "next-js"
+    },
+    {
+        "id": 5,
+        "course_name": "Node.js",
+        "course_modality": "Online en vivo",
+        "course_purpose": "Dominar creación de servidores hasta la implementación de API RESTful y la gestión de la seguridad con JSON Web Tokens. Al finalizar, los estudiantes tendrán las habilidades necesarias para desarrollar aplicaciones backend de alto rendimiento utilizando Node.js.",
+        "course_audience": "Personas con ganas y desarrolladores de software que deseen especializarse en el desarrollo de aplicaciones backend, este curso está diseñado para aquellos que desean construir servidores y APIs robustas utilizando Node.js.",
+        "course_topics": [
+            {
+                "topic_id": 1,
+                "topic": "Creación de servidor backend"
+            },
+            {
+                "topic_id": 2,
+                "topic": "Subir y administrar archivos en el servidor"
+            },
+            {
+                "topic_id": 3,
+                "topic": "Crear API Rest"
+            },
+            {
+                "topic_id": 4,
+                "topic": "JSON Web Tokens"
+            }
+        ],
+        "course_program": [
+            "Clase 1 - Crear backend server",
+            "Clase 2 - Subir y administrar archivos en el servidor",
+            "Clase 3 - Despliegues en Heroku",
+            "Clase 4 - Crear aplicaciones usando sockets",
+            "Clase 5 - Crear servicios REST",
+            "Clase 6 - JSON Web Tokens"
+        ],
+        "course_teachers_tutors": [
+            {
+                "course_role": "Profesor/a",
+                "course_teacher_tutor": "Laura Sánchez",
+                "course_teacher_tutor_profession": "Ingeniera de Software",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Miguel Ángel Ruiz",
+                "course_teacher_tutor_profession": "Desarrollador Full-stack ",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Patricia González",
+                "course_teacher_tutor_profession": "Experta en Seguridad Informática",
+                "course_teacher_tutor_img": ""
+            }
+        ],
+        "course_price": "15.000",
+        "course_dates": [
+            {
+                "course_start_date": "2024-05-06",
+                "course_finish_date": "2024-07-08",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-05-14",
+                "course_finish_date": "2024-07-23",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-05-18",
+                "course_finish_date": "2024-07-27",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-05-28",
+                "course_finish_date": "2024-08-06",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-06-10",
+                "course_finish_date": "2024-08-12",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-06-15",
+                "course_finish_date": "2024-08-24",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-06-18",
+                "course_finish_date": "2024-08-27",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-06-25",
+                "course_finish_date": "2024-08-29",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-07-08",
+                "course_finish_date": "2024-09-09",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-07-16",
+                "course_finish_date": "2024-09-17",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            }
+        ],
+        "course_path": "node-js"
+    },
+    {
+        "id": 6,
+        "course_name": "Python",
+        "course_modality": "Online en vivo",
+        "course_purpose": "Este curso introduce a los estudiantes al lenguaje de programación Python, abordando desde conceptos básicos como números y cadenas de caracteres hasta temas más avanzados como la programación orientada a objetos. Con un enfoque práctico, los participantes estarán preparados para escribir scripts, automatizar tareas y desarrollar aplicaciones de todo tipo.",
+        "course_audience": "Personas con ganas, principiantes en programación y desarrolladores que deseen aprender un lenguaje versátil como Python para desarrollar aplicaciones, scripts y automatizar tareas.",
+        "course_topics": [
+            {
+                "topic_id": 1,
+                "topic": "Números y cadenas de caracteres"
+            },
+            {
+                "topic_id": 2,
+                "topic": "Listas y tuplas"
+            },
+            {
+                "topic_id": 3,
+                "topic": "Operadores básicos y expresiones anidadas"
+            },
+            {
+                "topic_id": 4,
+                "topic": "Programación orientada a objetos"
+            }
+        ],
+        "course_program": [
+            "Clase 1 - Números y cadenas de caracteres",
+            "Clase 2 - Listas y tuplas",
+            "Clase 3 - Operadores básicos y expresiones anidadas",
+            "Clase 4 - Controladores de flujo I",
+            "Clase 5 - Controladores de flujo II",
+            "Clase 6 - Conjuntos y diccionarios",
+            "Clase 7 - Métodos de colecciones",
+            "Clase 8 - Manejo de archivos y datos",
+            "Clase 9 - Funciones I",
+            "Clase 10 - Funciones II",
+            "Clase 11 - Excepciones",
+            "Clase 12 - Programación orientada a objetos I",
+            "Clase 13 - Programación orientada a objetos II",
+            "Clase 14 - Herencias",
+            "Clase 15 - Scripts, módulos y paquetes",
+            "Clase 16 - Django"
+        ],
+        "course_teachers_tutors": [
+            {
+                "course_role": "Profesor/a",
+                "course_teacher_tutor": "Alejandro Pérez",
+                "course_teacher_tutor_profession": "Científico de Datos",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Sofía Martínez",
+                "course_teacher_tutor_profession": "Ingeniera de Software",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Carlos Rodríguez",
+                "course_teacher_tutor_profession": "Desarrollador Full-stack",
+                "course_teacher_tutor_img": ""
+            }
+        ],
+        "course_price": "20.000",
+        "course_dates": [
+            {
+                "course_start_date": "2024-05-06",
+                "course_finish_date": "2024-07-08",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-05-14",
+                "course_finish_date": "2024-07-23",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-05-18",
+                "course_finish_date": "2024-07-27",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-05-28",
+                "course_finish_date": "2024-08-06",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-06-10",
+                "course_finish_date": "2024-08-12",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-06-15",
+                "course_finish_date": "2024-08-24",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-06-18",
+                "course_finish_date": "2024-08-27",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-06-25",
+                "course_finish_date": "2024-08-29",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-07-08",
+                "course_finish_date": "2024-09-09",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-07-16",
+                "course_finish_date": "2024-09-17",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            }
+        ],
+        "course_path": "python"
+    },
+    {
+        "id": 7,
+        "course_name": "MySQL",
+        "course_modality": "Online en vivo",
+        "course_purpose": "Adquirir los fundamentos de las bases de datos relacionales con MySQL, aprendiendo desde la creación de bases de datos hasta la realización de consultas complejas y la gestión de datos. Con énfasis en la práctica, los participantes adquirirán habilidades para diseñar y administrar bases de datos eficientes y escalables.",
+        "course_audience": "Personas con ganas, desarrolladores web y estudiantes de ciencias de la computación interesados en aprender sobre bases de datos relacionales, este curso es perfecto para aquellos que deseen adquirir habilidades en el diseño y gestión de bases de datos con MySQL.",
+        "course_topics": [
+            {
+                "topic_id": 1,
+                "topic": "Introducción a base de datos"
+            },
+            {
+                "topic_id": 2,
+                "topic": "Lenguaje SQL"
+            },
+            {
+                "topic_id": 3,
+                "topic": "Consultas y subconsultas SQL"
+            },
+            {
+                "topic_id": 4,
+                "topic": "Objetos de una base de datos"
+            },
+            {
+                "topic_id": 5,
+                "topic": "Actualización/eliminación de datos"
+            }
+        ],
+        "course_program": [
+            "Clase 1 - Introducción a base de datos",
+            "Clase 2 - Introducción a bases de datos relacionales",
+            "Clase 3 - El lenguaje SQL",
+            "Clase 4 - Sublenguajes SQL",
+            "Clase 5 - Consultas y subconsultas SQL",
+            "Clase 6 - Sublenguaje DDL",
+            "Clase 7 - Objetos de una base de datos",
+            "Clase 8 - Tablas SQL",
+            "Clase 9 - Vistas",
+            "Clase 10 - Workshop DDL",
+            "Clase 11 - Sublenguaje DML 1",
+            "Clase 12 - Sublenguaje DML 2",
+            "Clase 13 - Inserción con importación",
+            "Clase 14 - Actualización y eliminación de datos",
+            "Clase 15 - Funciones",
+            "Clase 16 - Stored procedures",
+            "Clase 17 - Triggers",
+            "Clase 18 - Workshop DML",
+            "Clase 19 - Sublenguaje DCL",
+            "Clase 20 - Sublenguaje TCL",
+            "Clase 21 - Backup y restauración",
+            "Clase 22 - Proyecto final"
+        ],
+        "course_teachers_tutors": [
+            {
+                "course_role": "Profesor/a",
+                "course_teacher_tutor": "Javier López",
+                "course_teacher_tutor_profession": "Ingeniero de Bases de Datos",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "María Rodríguez",
+                "course_teacher_tutor_profession": "Desarrolladora Back-end",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Luis Martínez",
+                "course_teacher_tutor_profession": "Analista de Datos",
+                "course_teacher_tutor_img": ""
+            }
+        ],
+        "course_price": "17.000",
+        "course_dates": [
+            {
+                "course_start_date": "2024-05-06",
+                "course_finish_date": "2024-07-08",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-05-14",
+                "course_finish_date": "2024-07-23",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-05-18",
+                "course_finish_date": "2024-07-27",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-05-28",
+                "course_finish_date": "2024-08-06",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-06-10",
+                "course_finish_date": "2024-08-12",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-06-15",
+                "course_finish_date": "2024-08-24",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-06-18",
+                "course_finish_date": "2024-08-27",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-06-25",
+                "course_finish_date": "2024-08-29",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-07-08",
+                "course_finish_date": "2024-09-09",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-07-16",
+                "course_finish_date": "2024-09-17",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            }
+        ],
+        "course_path": "mysql"
+    },
+    {
+        "id": 8,
+        "course_name": "C#",
+        "course_modality": "Online en vivo",
+        "course_purpose": "Capacitación acerca de los conceptos básicos de C# hasta la creación de clases y objetos, pasando por la implementación de bucles e iteraciones. Al finalizar, los estudiantes estarán preparados para desarrollar aplicaciones de escritorio y web utilizando el poderoso lenguaje de programación C#.",
+        "course_audience": "Personas con ganas y desarrolladores de software que deseen adentrarse en el desarrollo de aplicaciones de escritorio y web utilizando el lenguaje de programación C# y el ecosistema de desarrollo de Microsoft.",
+        "course_topics": [
+            {
+                "topic_id": 1,
+                "topic": "Introduccion a C#"
+            },
+            {
+                "topic_id": 2,
+                "topic": "Sintaxis y sentencias básicas"
+            },
+            {
+                "topic_id": 3,
+                "topic": "Bucles e Iteraciones"
+            },
+            {
+                "topic_id": 4,
+                "topic": "Funciones"
+            },
+            {
+                "topic_id": 5,
+                "topic": "Clases y Objetos"
+            }
+        ],
+        "course_program": [
+            "Clase 1 - Introduccion a C# y sus herramientas",
+            "Clase 2 - Sintaxis y sentencias básicas",
+            "Clase 3 - Bucles e Iteraciones",
+            "Clase 4 - Funciones",
+            "Clase 5 - Clases y objetos",
+            "Clase 6 - Tipos de clases, herencia e interfaces.",
+            "Clase 7 - Listas básicos",
+            "Clase 8 - Listas y Matrices avanzado",
+            "Clase 9 - Consulta de datos con ADO .NET",
+            "Clase 10 - Manipular Datos con ADO .NET",
+            "Clase 11 - Entity Framework Migrations y Consulta de Datos",
+            "Clase 12 - Entity Framework Manipulación de Datos",
+            "Clase 13 - Desarrollo de Aplicaciones en Capas",
+            "Clase 14 - APIs y end points de consulta",
+            "Clase 15 - APIs y end points de modificación",
+            "Clase 16 - Proyecto final"
+        ],
+        "course_teachers_tutors": [
+            {
+                "course_role": "Profesor/a",
+                "course_teacher_tutor": "Daniel Sánchez",
+                "course_teacher_tutor_profession": "Ingeniero de Software",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Laura Gómez",
+                "course_teacher_tutor_profession": "Desarrolladora C# Senior",
+                "course_teacher_tutor_img": ""
+            },
+            {
+                "course_role": "Tutor/a",
+                "course_teacher_tutor": "Marcos Pérez",
+                "course_teacher_tutor_profession": "Ingeniero de Software",
+                "course_teacher_tutor_img": ""
+            }
+        ],
+        "course_price": "12.000",
+        "course_dates": [
+            {
+                "course_start_date": "2024-05-06",
+                "course_finish_date": "2024-07-08",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-05-14",
+                "course_finish_date": "2024-07-23",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-05-18",
+                "course_finish_date": "2024-07-27",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-05-28",
+                "course_finish_date": "2024-08-06",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-06-10",
+                "course_finish_date": "2024-08-12",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-06-15",
+                "course_finish_date": "2024-08-24",
+                "course_duration": "10 semanas",
+                "course_days": "Sábados",
+                "course_class_start_hour": "11:30:00",
+                "course_class_end_hour": "16:00:00"
+            },
+            {
+                "course_start_date": "2024-06-18",
+                "course_finish_date": "2024-08-27",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            },
+            {
+                "course_start_date": "2024-06-25",
+                "course_finish_date": "2024-08-29",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "19:00:00",
+                "course_class_end_hour": "21:00:00"
+            },
+            {
+                "course_start_date": "2024-07-08",
+                "course_finish_date": "2024-09-09",
+                "course_duration": "10 semanas",
+                "course_days": "Lunes y miercoles",
+                "course_class_start_hour": "20:30:00",
+                "course_class_end_hour": "22:30:00"
+            },
+            {
+                "course_start_date": "2024-07-16",
+                "course_finish_date": "2024-09-17",
+                "course_duration": "10 semanas",
+                "course_days": "Martes y jueves",
+                "course_class_start_hour": "10:00:00",
+                "course_class_end_hour": "12:00:00"
+            }
+        ],
+        "course_path": "c-sharp"
+    }
+]
